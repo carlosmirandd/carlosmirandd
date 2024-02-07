@@ -1,4 +1,4 @@
-<div  align="center" style="margin-bottom:100px"> ![](https://komarev.com/ghpvc/?username=your-github-username)</div>
+<div  align="center" style="margin-bottom:100px"> ![](https://komarev.com/ghpvc/?username=carlosmirandd&color=blueviolet)</div>
 
 ### Hi there 👋
 

@@ -3,8 +3,7 @@
 <p align="center">My name is Carlos Miranda and I'm 18 years old.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=carlosmirandd&theme=radical&mode=weekly" />
-username=carlosmirandd&show_icons=true&theme=radical&layout=compact" />
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=carlosmirandd&theme=radical&mode=weekly"
  </div>
 
 

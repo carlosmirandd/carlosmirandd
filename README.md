@@ -17,7 +17,7 @@
 <a href="https://www.instagram.com/carlosmirandd" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 <a href="https://www.linkedin.com/in/carlosmirandd/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-<a href="https://carlosmirandd.framer.ai" target="_blank"><img src="https://img.shields.io/badge/-Website-%2181818?style=for-the-badge&logo=framer&logoColor=white">
+<a href="https://carlosmirandd.framer.ai" target="_blank"><img src="https://img.shields.io/badge/-My Website-%1181818?style=for-the-badge&logo=framer&logoColor=white">
 </a>
 </div>&nbsp;&nbsp;
  

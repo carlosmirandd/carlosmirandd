@@ -2,7 +2,9 @@
 
 <p align="center">My name is Carlos Miranda and I'm 18 years old.</p>&nbsp;
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=carlosmirandd&theme=shades-of-purple&border_radius=30&locale=pt_BR&mode=weekly" alt="GitHub Streak" /></a> </div>
+<div  align="center" style="margin-bottom:100px">
+ <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=carlosmirandd&theme=shades-of-purple&border_radius=30&locale=pt_BR&mode=weekly" alt="GitHub Streak" /></a> </div>
+ 
 
 
 ## Contacts:

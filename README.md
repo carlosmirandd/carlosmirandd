@@ -1,4 +1,4 @@
-<h1 data-importer="text" align="center">Hello 👋, I'm Carlos Miranda</h1>
+<h2 data-importer="text" align="center">Hello 👋, I'm Carlos Miranda</h2>
 
 ###
 
@@ -68,14 +68,6 @@
 <div data-importer="stats" align="center">
   <img src="https://raw.githubusercontent.com/carlosmirandd/carlosmirandd/languages-output/languages.svg?locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=carlosmirandd&locale=pt-br&mode=weekly&theme=dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<div data-importer="music" align="center">
-  <a href="https://open.spotify.com/user/wd2ryqk4sdrevh5l8jvhdjf0w">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=wd2ryqk4sdrevh5l8jvhdjf0w&count=2&unique=false" alt="Spotify recently played"  />
-  </a>
 </div>
 
 ###

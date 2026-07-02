@@ -1,4 +1,4 @@
-<h2 data-importer="text" align="center">Hello 👋, I'm Carlos Miranda</h2>
+<h2 data-importer="text" align="center">Olá 👋, Meu nome é Carlos Miranda!</h2>
 
 ###
 

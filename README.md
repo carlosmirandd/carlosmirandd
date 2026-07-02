@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Carlos Miranda</h1>
 <h3 align="center">Computer Technician and Computer Engineering Student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=carlosmirandd&label=Profile%20views&color=0e75b6&style=flat" alt="carlosmirandd" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=carlosmirandd&label=Profile%20views&color=0e75b6&style=badge" alt="carlosmirandd" /> </p>
 
 - 👨‍💻 All of my projects are available at [carlosmirandd.space](carlosmirandd.space)
 

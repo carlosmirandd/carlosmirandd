@@ -1,8 +1,4 @@
-<h2 data-importer="text" align="center">Hello 👋, I'm Carlos Miranda</h2>
-
-###
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=carlosmirandd&label=Profile%20views&color=0e75b6&style=badge" alt="carlosmirandd" /> </p>
+<h1 data-importer="text" align="center">Hello 👋, I'm Carlos Miranda</h1>
 
 ###
 
@@ -63,9 +59,37 @@
 
 ###
 
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=carlosmirandd.carlosmirandd&left_color=black&right_color=orange&left_text=Visitantes"  />
+</div>
+
+###
+
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/carlosmirandd/carlosmirandd/languages-output/languages.svg?locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=darcula&hide_border=true" height="160" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/carlosmirandd/carlosmirandd/languages-output/languages.svg?locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=carlosmirandd&locale=pt-br&mode=weekly&theme=dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<div data-importer="music" align="center">
+  <a href="https://open.spotify.com/user/wd2ryqk4sdrevh5l8jvhdjf0w">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=wd2ryqk4sdrevh5l8jvhdjf0w&count=2&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/carlosmirandd/carlosmirandd/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/carlosmirandd/carlosmirandd/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/carlosmirandd/carlosmirandd/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+</picture>
+
+###
+
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=70&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
 ###

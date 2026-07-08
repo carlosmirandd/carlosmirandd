@@ -5,8 +5,6 @@
 <div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -53,21 +51,17 @@
 
 ###
 
-<br clear="both">
-
 <img data-importer="snake" src="https://raw.githubusercontent.com/carlosmirandd/carlosmirandd/snake-output/snake.svg" alt="Snake animation" />
 
 ###
 
-<div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=carlosmirandd.carlosmirandd&left_color=black&right_color=orange&left_text=Visitantes"  />
-</div>
+<img data-importer="profile-views" align="center" src="https://visitor-badge.laobi.icu/badge?page_id=carlosmirandd.carlosmirandd&left_color=black&right_color=orange&left_text=Visitantes"  />
 
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/carlosmirandd/carlosmirandd/languages-output/languages.svg?locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=carlosmirandd&locale=pt-br&mode=weekly&theme=dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/carlosmirandd/carlosmirandd/languages-output/languages.svg?locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=carlosmirandd&locale=pt-br&mode=weekly&theme=dark&hide_border=true&border_radius=5&order=3&user=carlosmirandd" height="150" alt="streak graph"  />
 </div>
 
 ###
@@ -81,7 +75,7 @@
 ###
 
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=70&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=70&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
 </div>
 
 ###

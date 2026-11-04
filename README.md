@@ -30,31 +30,34 @@ desenvolvedor e estudante de engenharia de computação.
 
 ### stack
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/vite/646CFF" height="30" alt="vite" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="30" alt="supabase" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="30" alt="firebase" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux" />
-</div>
+| | |
+|---|---|
+| web | <img src="https://cdn.simpleicons.org/react/61DAFB" height="28" alt="react" title="react" /> <img src="https://cdn.simpleicons.org/nextdotjs/8a8a8a" height="28" alt="next.js" title="next.js" /> <img src="https://cdn.simpleicons.org/typescript/3178C6" height="28" alt="typescript" title="typescript" /> <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="28" alt="javascript" title="javascript" /> <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="28" alt="tailwind" title="tailwind" /> <img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" height="28" alt="node.js" title="node.js" /> <img src="https://cdn.simpleicons.org/python/3776AB" height="28" alt="python" title="python" /> |
+| mobile | <img src="https://cdn.simpleicons.org/capacitor/119EFF" height="28" alt="capacitor" title="capacitor" /> <img src="https://cdn.simpleicons.org/flutter/02569B" height="28" alt="flutter" title="flutter" /> <img src="https://cdn.simpleicons.org/pwa/5A0FC8" height="28" alt="pwa" title="pwa" /> |
+| dados | <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="28" alt="supabase" title="supabase" /> <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="28" alt="firebase" title="firebase" /> <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="28" alt="postgresql" title="postgresql" /> <img src="https://cdn.simpleicons.org/mysql/4479A1" height="28" alt="mysql" title="mysql" /> |
+| infra | <img src="https://cdn.simpleicons.org/vercel/8a8a8a" height="28" alt="vercel" title="vercel" /> <img src="https://cdn.simpleicons.org/cloudflare/F38020" height="28" alt="cloudflare" title="cloudflare" /> <img src="https://cdn.simpleicons.org/docker/2496ED" height="28" alt="docker" title="docker" /> <img src="https://cdn.simpleicons.org/git/F05032" height="28" alt="git" title="git" /> <img src="https://cdn.simpleicons.org/linux/FCC624" height="28" alt="linux" title="linux" /> |
+| ia | <img src="https://cdn.simpleicons.org/claude/D97757" height="28" alt="claude" title="claude" /> <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" height="28" alt="gemini" title="gemini" /> <img src="https://api.iconify.design/bi/openai.svg?color=%238a8a8a" height="28" alt="openai" title="openai" /> |
+| criação | <img src="https://cdn.simpleicons.org/figma/F24E1E" height="28" alt="figma" title="figma" /> <img src="https://api.iconify.design/devicon/canva.svg" height="28" alt="canva" title="canva" /> <img src="https://api.iconify.design/logos/adobe-lightroom.svg" height="28" alt="lightroom" title="lightroom" /> <img src="https://api.iconify.design/thesvg/capcut.svg?color=%238a8a8a" height="28" alt="capcut" title="capcut" /> |
+| no-code | <img src="https://cdn.simpleicons.org/wordpress/21759B" height="28" alt="wordpress" title="wordpress" /> <img src="https://cdn.simpleicons.org/framer/0055FF" height="28" alt="framer" title="framer" /> <img src="https://cdn.simpleicons.org/webflow/146EF5" height="28" alt="webflow" title="webflow" /> |
+| hardware | <img src="https://cdn.simpleicons.org/arduino/00878F" height="28" alt="arduino" title="arduino" /> <img src="https://cdn.simpleicons.org/espressif/E7352C" height="28" alt="esp32" title="esp32" /> |
+| aprendendo | <img src="https://cdn.simpleicons.org/kotlin/7F52FF" height="28" alt="kotlin" title="kotlin" /> <img src="https://cdn.simpleicons.org/swift/F05138" height="28" alt="swift" title="swift" /> |
+
+<details>
+<summary>tudo que já usei</summary>
+
+<br>
+
+- **web**: html, css, javascript, typescript, react, next.js, tailwind, vite, php, node.js, python
+- **mobile**: capacitor, flutter e dart, pwa, react native (usei, hoje lembro menos). kotlin e swift estou aprendendo, a ia escreve quase tudo
+- **dados**: supabase, firebase, postgresql, mysql
+- **infra**: git, github actions, docker, rest e postman, vercel, cloudflare
+- **linux**: ubuntu, debian, zorin, pop!_os e kali, termux no celular e wsl com ubuntu no windows
+- **ia**: claude (code e projects) e gemini no dia a dia. claude na ventrium e openai no easybeach, para resumos e moderação
+- **criação**: figma, canva, lightroom e capcut
+- **no-code**: wordpress, framer, webflow, wix e nuvemshop, com noção prática
+- **hardware e redes**: arduino e esp32, redes só nos fundamentos do ccna
+
+</details>
 
 <br>
 
@@ -77,8 +80,6 @@ desenvolvedor e estudante de engenharia de computação.
 <br>
 
 ### atividade
-
-<img src="https://raw.githubusercontent.com/carlosmirandd/carlosmirandd/snake-output/snake.svg" alt="snake" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/carlosmirandd/carlosmirandd/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">

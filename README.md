@@ -41,9 +41,19 @@ desenvolvedor e estudante de engenharia de computação.
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react" />
   <img width="12" />
+  <img src="https://cdn.simpleicons.org/nextdotjs/8a8a8a" height="30" alt="next.js" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwind" />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/vite/646CFF" height="30" alt="vite" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="node.js" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/flutter/02569B" height="30" alt="flutter" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql" />
   <img width="12" />
@@ -51,7 +61,11 @@ desenvolvedor e estudante de engenharia de computação.
   <img width="12" />
   <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="30" alt="firebase" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python" />
+  <img src="https://cdn.simpleicons.org/vercel/8a8a8a" height="30" alt="vercel" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/cloudflare/F38020" height="30" alt="cloudflare" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="30" alt="figma" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux" />
 </div>
@@ -77,8 +91,6 @@ desenvolvedor e estudante de engenharia de computação.
 <br>
 
 ### atividade
-
-<img src="https://raw.githubusercontent.com/carlosmirandd/carlosmirandd/snake-output/snake.svg" alt="snake" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/carlosmirandd/carlosmirandd/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">

@@ -24,7 +24,7 @@ desenvolvedor e estudante de engenharia de computação.
 | [easybeach](https://easybeach.app) | condições das praias de niterói em tempo real. ios e android |
 | [acervif](https://acervif.site) · [github](https://github.com/carlosmirandd/acervif) | acervo de provas, horários e avisos para engenharia do ifrj. pwa com firebase e vercel |
 | [inova ligas](https://instagram.com/inovanit.ifrj) | gestão de equipes e competições de inovação. react e supabase |
-| [chiquinhaflix](https://carlosmirandd.github.io/chiquinhaflix) · [github](https://github.com/carlosmirandd/chiquinhaflix) | visualizador de séries com modo tv, em js puro |
+| [alertabr](https://alertabr.pages.dev) · [github](https://github.com/carlosmirandd/alertabr) | mapa ao vivo dos avisos do inmet e dos focos de calor do inpe nos 5.570 municípios. pwa com maplibre e cloudflare |
 
 <br>
 
